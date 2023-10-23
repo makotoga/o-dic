@@ -16,21 +16,21 @@
 
 |ファイル名|内容|
 |--|--|
-|city.dic|市町村および郡の名前|
-|address.dic|市町村内の行政区画の名前|
-|island.dic|島嶼名|
-|geo.dic|市町村名/字名/島名に含まれない地名(山や川も)|
-|name.dic|人名|
-|school.dic|学校名|
-|park.dic|公園名|
-|history.dic|歴史上の人名・地名|
-|food.dic|食べ物の名前|
-|sakana.dic|魚の名前|
-|awamori.dic|泡盛の銘柄名|
-|base.dic|基地|
-|amami.dic|奄美の人名・地名|
-|bus.dic|バス路線・バス停|
-|misc.dic|その他|
+|[city.dic](city.dic)|市町村および郡の名前|
+|[address.dic](address.dic)|市町村内の行政区画の名前|
+|[island.dic](island.dic)|島嶼名|
+|[geo.dic](geo.dic)|市町村名/字名/島名に含まれない地名(山や川も)|
+|[name.dic](name.dic)|人名|
+|[school.dic](school.dic)|学校名|
+|[park.dic](park.dic)|公園名|
+|[history.dic](history.dic)|歴史上の人名・地名|
+|[food.dic](food.dic)|食べ物の名前|
+|[sakana.dic](sakana.dic)|魚の名前|
+|[awamori.dic](awamori.dic)|泡盛の銘柄名|
+|[base.dic](base.dic)|基地|
+|[amami.dic](amami.dic)|奄美の人名・地名|
+|[bus.dic](bus.dic)|バス路線・バス停|
+|[misc.dic](misc.dic)|その他|
 |||
 
 日本語入力ソフトウェアの(VJEとかCannaとか)の辞書強化が目的であれば、地名と人名(city、address、island、geo、name)だけでも充分に役に立つと思います。  
@@ -38,13 +38,13 @@
 
 |ファイル名|内容|
 |--|--|
-|oki2canna.pl|Canna/Anthy辞書への変換|
-|oki2vje.pl|VJE-Deltaの一括登録用テキストへの変換|
-|oki2kotoeri.pl|ことえりの一括登録用テキストへの変換|
-|oki2jis.pl|JIS X 4062形式のテキストへの変換|
-|oki2atk.pl|ATOK13形式のテキストへの変換|
-|oki2cha.pl|茶筌で使える形式のテキストに変換する|
-|oki2mozc.pl|Mozc/Google日本語入力の一括登録用テキストへの変換</br><small>_ただし、Mozc/Google日本語入力には沖縄辞書の内容が一部マージされているので、それを含みたくない場合にはMozcのソースが必要になります_</small>|
+|[oki2canna.pl](script/oki2canna.pl)|Canna/Anthy辞書への変換|
+|[oki2vje.pl](script/oki2vje.pl)|VJE-Deltaの一括登録用テキストへの変換|
+|[oki2kotoeri.pl](script/oki2kotoeri.pl)|ことえりの一括登録用テキストへの変換|
+|[oki2jis.pl](script/oki2jis.pl)|JIS X 4062形式のテキストへの変換|
+|[oki2atk.pl](script/oki2atk.pl)|ATOK13形式のテキストへの変換|
+|[oki2cha.pl](script/oki2cha.pl)|茶筌で使える形式のテキストに変換する|
+|[oki2mozc.pl](script/oki2mozc.pl)|Mozc/Google日本語入力の一括登録用テキストへの変換</br><small>_ただし、Mozc/Google日本語入力には沖縄辞書の内容が一部マージされているので、それを含みたくない場合にはMozcのソースが必要になります_</small>|
 |||
 
 沖縄辞書のデータ形式については、[format.txt](doc/format.txt)を参照してください。
