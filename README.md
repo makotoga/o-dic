@@ -8,7 +8,7 @@
 
 ## 沖縄辞書はどこで作っているの?
 
-保守作業は『沖縄辞書メイリングリスト』というメイリングリストおよび sourceforge (http://sourceforge.jp/projects/o-dic/)にて行なわれています。
+保守作業は『沖縄辞書メイリングリスト』というメイリングリストおよび[sourceforge](http://sourceforge.jp/projects/o-dic/)にて行なわれています。
 
 ## 沖縄辞書の内容は?
 
