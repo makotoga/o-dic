@@ -12,7 +12,7 @@
 
 ## 沖縄辞書の内容は?
 
-沖縄辞書は、現在、次の15のファイルに分かれています。
+沖縄辞書は、現在、次の17のファイルに分かれています。
 
 |ファイル名|内容|
 |--|--|
@@ -31,6 +31,8 @@
 |[amami.dic](amami.dic)|奄美の人名・地名|
 |[bus.dic](bus.dic)|バス路線・バス停|
 |[misc.dic](misc.dic)|その他|
+|[mountain.dic](mountain.dic)|山岳の名称|
+|[tunnell.dic](tunnell.dic)|トンネルの名称|
 |||
 
 日本語入力ソフトウェアの(VJEとかCannaとか)の辞書強化が目的であれば、地名と人名(city、address、island、geo、name)だけでも充分に役に立つと思います。  
