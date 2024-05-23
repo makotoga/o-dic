@@ -64,7 +64,4 @@ _(強制ではありません)_
 
 ## 連絡先は?
 
-以下のところへお願いします。
-
-監修者(ずけらん@沖縄)  
-shin@opus.or.jp
+https://github.com/makotoga/o-dic のIssuesにて連絡ください
