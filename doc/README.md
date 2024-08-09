@@ -65,3 +65,4 @@ _(強制ではありません)_
 ## 連絡先は?
 
 https://github.com/makotoga/o-dic のIssuesにて連絡ください
+
