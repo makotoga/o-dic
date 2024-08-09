@@ -32,7 +32,7 @@
 |[bus.dic](bus.dic)|バス路線・バス停|
 |[misc.dic](misc.dic)|その他|
 |[mountain.dic](mountain.dic)|山岳の名称|
-|[tunnell.dic](tunnell.dic)|トンネルの名称|
+|[tunnel.dic](tunnel.dic)|トンネルの名称|
 |||
 
 日本語入力ソフトウェアの(VJEとかCannaとか)の辞書強化が目的であれば、地名と人名(city、address、island、geo、name)だけでも充分に役に立つと思います。  
